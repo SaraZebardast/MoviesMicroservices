@@ -1,0 +1,12 @@
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/bin/Debug/net8.0/Movies.ServiceDefaults.deps.json
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/bin/Debug/net8.0/Movies.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/bin/Debug/net8.0/Movies.ServiceDefaults.pdb
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.csproj.AssemblyReference.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.AssemblyInfoInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.AssemblyInfo.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.csproj.CoreCompileInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/refint/Movies.ServiceDefaults.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/Movies.ServiceDefaults.pdb
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.ServiceDefaults/obj/Debug/net8.0/ref/Movies.ServiceDefaults.dll
