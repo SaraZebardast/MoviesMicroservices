@@ -24,7 +24,7 @@ public class GenreUpdateHandler : Service<Genre>, IRequestHandler<GenreUpdateReq
     {
         if (await Query().AnyAsync(g => g.Id != request.Id && g.Name == request.Name.Trim(), cancellationToken))
             return Error("Genre with the same name exists");
-        var entity = await Query(false).SingleOrDefaultAsync(g => g.Id == request.Id);
+        var entity = await Query(false).SingleOrDefaultAsync(g => g.Id == request.Id,cancellationToken);
         if (entity is null)
             return Error("Genre not found!");
         

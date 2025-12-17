@@ -112,7 +112,6 @@
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.AssemblyInfoInputs.cache
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.AssemblyInfo.cs
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.csproj.CoreCompileInputs.cache
-/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/.ProjectMetadata.g.cs
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/_AppHost.ProjectMetadata.g.cs
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.A.AD6E02C8.Up2Date
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.dll
@@ -120,3 +119,8 @@
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.pdb
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.genruntimeconfig.cache
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/ref/Movies.AppHost.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/Movies_API.ProjectMetadata.g.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/Movies_APP.ProjectMetadata.g.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/Users_API.ProjectMetadata.g.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Aspire/references/Users_APP.ProjectMetadata.g.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.AppHost/obj/Debug/net8.0/Movies.AppHost.sourcelink.json

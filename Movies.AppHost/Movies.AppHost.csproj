@@ -14,4 +14,11 @@
         <PackageReference Include="Aspire.Hosting.AppHost" Version="9.4.2"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Movies.API\Movies.API.csproj" />
+      <ProjectReference Include="..\Movies.APP\Movies.APP.csproj" />
+      <ProjectReference Include="..\Users.API\Users.API.csproj" />
+      <ProjectReference Include="..\Users.APP\Users.APP.csproj" />
+    </ItemGroup>
+
 </Project>

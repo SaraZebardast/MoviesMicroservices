@@ -1,3 +1,15 @@
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/bin/Debug/net8.0/CORE.deps.json
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/bin/Debug/net8.0/CORE.dll
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/bin/Debug/net8.0/CORE.pdb
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.csproj.AssemblyReference.cache
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.AssemblyInfoInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.AssemblyInfo.cs
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.csproj.CoreCompileInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.dll
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/refint/CORE.dll
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/CORE.pdb
+/Users/sarazebardast/Desktop/CTIS465/Users/CORE/obj/Debug/net8.0/ref/CORE.dll
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/bin/Debug/net8.0/CORE.deps.json
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/bin/Debug/net8.0/CORE.dll
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/bin/Debug/net8.0/CORE.pdb
@@ -6,6 +18,7 @@
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.AssemblyInfoInputs.cache
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.AssemblyInfo.cs
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.csproj.CoreCompileInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.sourcelink.json
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.dll
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/refint/CORE.dll
 /Users/sarazebardast/Desktop/CTIS465/Movies/CORE/obj/Debug/net8.0/CORE.pdb

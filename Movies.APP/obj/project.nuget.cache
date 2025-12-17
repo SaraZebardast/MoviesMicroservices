@@ -1,15 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "l9rVSzJKjww=",
+  "dgSpecHash": "ldCAYRHyv7Q=",
   "success": true,
   "projectFilePath": "/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.APP/Movies.APP.csproj",
   "expectedPackageFiles": [
     "/Users/sarazebardast/.nuget/packages/mediatr/13.0.0/mediatr.13.0.0.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/8.0.22/microsoft.aspnetcore.authentication.jwtbearer.8.0.22.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.data.sqlite.core/8.0.21/microsoft.data.sqlite.core.8.0.21.nupkg.sha512",
-    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore/8.0.21/microsoft.entityframeworkcore.8.0.21.nupkg.sha512",
-    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.21/microsoft.entityframeworkcore.abstractions.8.0.21.nupkg.sha512",
-    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.21/microsoft.entityframeworkcore.analyzers.8.0.21.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore/8.0.22/microsoft.entityframeworkcore.8.0.22.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.22/microsoft.entityframeworkcore.abstractions.8.0.22.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.22/microsoft.entityframeworkcore.analyzers.8.0.22.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.21/microsoft.entityframeworkcore.relational.8.0.21.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.sqlite/8.0.21/microsoft.entityframeworkcore.sqlite.8.0.21.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.entityframeworkcore.sqlite.core/8.0.21/microsoft.entityframeworkcore.sqlite.core.8.0.21.nupkg.sha512",
@@ -26,6 +27,8 @@
     "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.abstractions/8.0.1/microsoft.identitymodel.abstractions.8.0.1.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.0.1/microsoft.identitymodel.jsonwebtokens.8.0.1.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.logging/8.0.1/microsoft.identitymodel.logging.8.0.1.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/microsoft.identitymodel.tokens/8.0.1/microsoft.identitymodel.tokens.8.0.1.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.1.6/sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/sqlitepclraw.core/2.1.6/sqlitepclraw.core.2.1.6.nupkg.sha512",
@@ -33,6 +36,7 @@
     "/Users/sarazebardast/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.6/sqlitepclraw.provider.e_sqlite3.2.1.6.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/stub.system.data.sqlite.core.netstandard/1.0.119/stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/system.data.sqlite.core/1.0.119/system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "/Users/sarazebardast/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512",
     "/Users/sarazebardast/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []

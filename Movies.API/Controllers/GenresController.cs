@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using MediatR;
 using CORE.APP.Models;
+using Microsoft.AspNetCore.Authorization;
 using Movies.APP.Features.Genres;
 
 //Generated from Custom Microservices Template.
@@ -10,6 +11,7 @@ namespace Movies.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class GenresController : ControllerBase
     {
         private readonly ILogger<GenresController> _logger;

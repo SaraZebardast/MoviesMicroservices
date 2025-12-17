@@ -13,3 +13,4 @@
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.APP/obj/Debug/net8.0/refint/Movies.APP.dll
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.APP/obj/Debug/net8.0/Movies.APP.pdb
 /Users/sarazebardast/Desktop/CTIS465/Movies/Movies.APP/obj/Debug/net8.0/ref/Movies.APP.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Movies.APP/obj/Debug/net8.0/Movies.APP.sourcelink.json

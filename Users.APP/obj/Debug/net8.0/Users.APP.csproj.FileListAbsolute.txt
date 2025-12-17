@@ -1,0 +1,16 @@
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/bin/Debug/net8.0/Users.APP.deps.json
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/bin/Debug/net8.0/Users.APP.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/bin/Debug/net8.0/Users.APP.pdb
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/bin/Debug/net8.0/CORE.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/bin/Debug/net8.0/CORE.pdb
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.csproj.AssemblyReference.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.AssemblyInfoInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.AssemblyInfo.cs
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.csproj.CoreCompileInputs.cache
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.sourcelink.json
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.csproj.Up2Date
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/refint/Users.APP.dll
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/Users.APP.pdb
+/Users/sarazebardast/Desktop/CTIS465/Movies/Users.APP/obj/Debug/net8.0/ref/Users.APP.dll
